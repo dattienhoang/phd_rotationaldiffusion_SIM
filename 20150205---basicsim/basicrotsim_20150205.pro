@@ -42,7 +42,7 @@ print, 'BEGIN basicrotsim_20150205'
     ;tkh_rot, d_rot = d_rot, N_steps = N_steps, n_traj = n_molecules
     print, '......d_rot, n_steps, n_molecules', d_rot, n_steps, n_molecules
     tkh_rot_20130513,  d_rot = d_rot, N_steps = N_steps, n_traj = n_molecules
-    tau_log_normal_20130513, 2.0, 0.0, n_molecules, tau_distrib 
+    ;tau_log_normal_20130513, 2.0, 0.0, n_molecules, tau_distrib 
     print, '...finished generating new trajectories'
   ENDIF
   
