@@ -1,4 +1,4 @@
-# phd_rotationaldiffusion_SIM
+# phd_rotationaldiffusion_SIM/20150205---basicsim/
 - Author: Dat Tien Hoang
 - IDL
 
