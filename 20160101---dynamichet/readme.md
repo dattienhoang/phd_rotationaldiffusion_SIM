@@ -1,5 +1,8 @@
 # phd_rotationaldiffusion_SIM/20160101---dynamichet/
 
+- Author: Dat Tien Hoang
+- C++ / IDL
+
 two different implementations of (similar) simulations for dynamically heterogeneous rotation. these two
 simulations are in two separate folders respectively...:
 - cpp_ks: Dr Kevin. Stokely's version in C++
